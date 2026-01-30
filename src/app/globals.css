@@ -23,6 +23,10 @@
   .text-balance {
     text-wrap: balance;
   }
+  
+  .border-border {
+border: 1px solid #ccc;
+  }
 }
 
 /* Smooth scroll behavior */
